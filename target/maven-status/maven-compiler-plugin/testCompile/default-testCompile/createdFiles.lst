@@ -1,0 +1,5 @@
+com\edgeconnect\test\mobiletest\RiskCreation.class
+com\edgeconnect\test\mobiletest\IssueCreation.class
+com\edgeconnect\test\mobiletest\MilestoneCreation.class
+com\edgeconnect\test\mobiletest\BaseTest.class
+com\edgeconnect\test\mobiletest\LoginTest.class
